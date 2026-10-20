@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+output/
+weights/
+external/
+data/
+*.pth
+*.pt
+*.mp4
+*.avi
